@@ -1,2 +1,2 @@
-# chapter-01-js-basics
+# Chapter 01 - Javascript Basics
 Playground untuk Chapter 01 - JS Basics
